@@ -64,6 +64,5 @@ public class Prime {
             }
         }
         return res;
-
     }
 }
