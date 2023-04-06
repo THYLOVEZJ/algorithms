@@ -7,5 +7,6 @@ public class test {
         Scanner sc = new Scanner(System.in);
         int res = sc.nextInt();
         System.out.println(res);
+        System.out.println("protect master");
     }
 }
